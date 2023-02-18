@@ -1,4 +1,4 @@
-# smooth-segmentation-output
+# Smooth segmentation output
 A module to improve the performance of segmentation outputs of remote sensing data
 
 
